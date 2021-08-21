@@ -1,0 +1,20 @@
+body {
+  background-color: pink;
+  text-align: center;
+  background-repeat: no-repeat;
+}
+img {
+  text-align: center; 
+  border-radius: 50;
+  width: 200px;
+  height: 200px;
+}
+h1 {
+text-shaddow: 2px 2px #F8BBDO
+  font-size:20px;
+}
+#bio {
+  padding: 20px;
+  font-size: 18px
+    text-align:center;
+}
